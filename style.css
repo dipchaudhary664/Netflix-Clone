@@ -299,3 +299,8 @@ footer {
   flex-direction: column;
   gap: 23px;
 }
+@media screen and (max-width: 370px) {
+  .send_mail input {
+    width: 90vw;
+  }
+}
